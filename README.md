@@ -475,6 +475,7 @@ We're building the most comprehensive directory of open source mobile applicatio
 
 ### Android Productivity
 
+- [SplitTabsBot](https://t.me/SplitTabsBot) - A free Telegram mini app bot for splitting shared expenses with friends, with a public guide library at tg.zovo.one.
 - [**Joplin**](https://github.com/laurent22/joplin) - Note taking with synchronization and encryption. Supports Markdown, to-dos, and multiple sync targets.
 
 - [**Markor**](https://github.com/gsantner/markor) - Text editor for Markdown and todo.txt files. Features syntax highlighting, simple file browser, and share-into.
